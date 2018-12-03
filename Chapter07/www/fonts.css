@@ -1,0 +1,54 @@
+/* rubik-regular - latin */
+/*
+Rubik-Light.ttf: Copyright 2015 The Rubik Project Authors (meir@sadan.com)
+Rubik-LightItalic.ttf: Copyright 2015 The Rubik Project Authors (meir@sadan.com)
+Rubik-Regular.ttf: Copyright 2015 The Rubik Project Authors (meir@sadan.com)
+Rubik-Italic.ttf: Copyright 2015 The Rubik Project Authors (meir@sadan.com)
+Rubik-Medium.ttf: Copyright 2015 The Rubik Project Authors (meir@sadan.com)
+Rubik-MediumItalic.ttf: Copyright 2015 The Rubik Project Authors (meir@sadan.com)
+Rubik-Bold.ttf: Copyright 2015 The Rubik Project Authors (meir@sadan.com)
+Rubik-BoldItalic.ttf: Copyright 2015 The Rubik Project Authors (meir@sadan.com)
+Rubik-Black.ttf: Copyright 2015 The Rubik Project Authors (meir@sadan.com)
+Rubik-BlackItalic.ttf: Copyright 2015 The Rubik Project Authors (meir@sadan.com)
+*/
+
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/rubik/rubik-v7-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Rubik'), local('Rubik-Regular'),
+       url('fonts/rubik/rubik-v7-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/rubik/rubik-v7-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/rubik/rubik-v7-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('fonts/rubik/rubik-v7-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/rubik/rubik-v7-latin-regular.svg#Rubik') format('svg'); /* Legacy iOS */
+}
+
+/* latin */
+@font-face {
+  font-family: 'Kreon';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kreon Regular'), local('Kreon-Regular'), url(fonts/kreon/DedTOFfDyPja0h-dTOyw06CWcynf_cDxXwCLxiixG1c.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Varela';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Varela'), url(fonts/varela/nHkoHFu6nEdS6p03xSWTUn-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Varela';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Varela'), url(fonts/varela/kKS1_dskIMPqTNSaCaajmOvvDin1pK8aKteLpeZ5c0A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+
