@@ -63,7 +63,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Other books by the authors
-* [R Data Visualization Recipes](https://india.packtpub.com/in/big-data-and-business-intelligence/r-data-visualization-recipes?utm_source=github&utm_medium=repository&utm_campaign=9781788398312))
+* [R Data Visualization Recipes](https://india.packtpub.com/in/big-data-and-business-intelligence/r-data-visualization-recipes?utm_source=github&utm_medium=repository&utm_campaign=9781788398312)
 * [Practical Big Data Analytics](https://india.packtpub.com/in/big-data-and-business-intelligence/practical-big-data-analytics?utm_source=github&utm_medium=repository&utm_campaign=9781783554393)
 
 ### Suggestions and Feedback
