@@ -9,7 +9,7 @@ This is the code repository for [Hands-On Data Science with R](https://www.packt
 ## What is this book about?
 R is the most widely used programming language, and when used in association with data science, this powerful combination will solve the complexities involved with unstructured datasets in the real world. This book covers the entire data science ecosystem for aspiring data scientists, right from zero to a level where you are confident enough to get hands-on with real-world data science problems.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Understand the R programming language and its ecosystem of packages for data science
 * Obtain and clean your data before processing
 * Master essential exploratory techniques for summarizing data
