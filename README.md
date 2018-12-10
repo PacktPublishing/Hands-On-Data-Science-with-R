@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * R Deep Learning Cookbook [[Packt]](https://india.packtpub.com/in/big-data-and-business-intelligence/r-deep-learning-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787121089) [[Amazon]](https://www.amazon.com/dp/1787121089)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Vitor Bianchi Lanzetta** (@vitorlanzetta) has a master's degree in Applied Economics (University of São Paulo—USP) and works as a data scientist in a tech start-up named RedFox Digital Solutions. He has also authored a book called R Data Visualization Recipes. The things he enjoys the most are statistics, economics, and sports of all kinds (electronics included). His blog, made in partnership with Ricardo Anjoleto Farias (@R_A_Farias), can be found at ArcadeData dot org, they kindly call it R-Cade Data.
 
 **Nataraj Dasgupta** is the vice president of advanced analytics at RxDataScience Inc. Nataraj has been in the IT industry for more than 19 years, and has worked in the technical and analytics divisions of Philip Morris, IBM, UBS Investment Bank, and Purdue Pharma. At Purdue Pharma, Nataraj led the data science division, where he developed the company's award-winning big data and machine learning platform. Prior to Purdue, at UBS, he held the role of Associate Director, working with high-frequency and algorithmic trading technologies in the foreign exchange trading division of the bank.
