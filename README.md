@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-data-science-with-r/9781789139402)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789139406).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Hands-On Data Science with R
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-r?utm_source=github&utm_medium=repository&utm_campaign=9781789139402"><img src="https://www.packtpub.com/sites/default/files/B10404_cover.png" alt="Hands-On Data Science with R" height="256px" align="right"></a>
